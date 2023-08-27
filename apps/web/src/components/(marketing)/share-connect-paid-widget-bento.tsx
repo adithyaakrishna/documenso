@@ -5,11 +5,11 @@ import Image from 'next/image';
 import { cn } from '@documenso/ui/lib/utils';
 import { Card, CardContent } from '@documenso/ui/primitives/card';
 
-import backgroundPattern from '~/assets/background-pattern.png';
-import cardConnectionsFigure from '~/assets/card-connections-figure.png';
-import cardPaidFigure from '~/assets/card-paid-figure.png';
-import cardSharingFigure from '~/assets/card-sharing-figure.png';
-import cardWidgetFigure from '~/assets/card-widget-figure.png';
+import backgroundPattern from '~/assets/background-pattern.webp';
+import cardConnectionsFigure from '~/assets/card-connections-figure.webp';
+import cardPaidFigure from '~/assets/card-paid-figure.webp';
+import cardSharingFigure from '~/assets/card-sharing-figure.webp';
+import cardWidgetFigure from '~/assets/card-widget-figure.webp';
 
 export type ShareConnectPaidWidgetBentoProps = HTMLAttributes<HTMLDivElement>;
 

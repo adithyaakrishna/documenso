@@ -5,10 +5,10 @@ import Image from 'next/image';
 import { cn } from '@documenso/ui/lib/utils';
 import { Card, CardContent } from '@documenso/ui/primitives/card';
 
-import backgroundPattern from '~/assets/background-pattern.png';
-import cardBuildFigure from '~/assets/card-build-figure.png';
-import cardOpenFigure from '~/assets/card-open-figure.png';
-import cardTemplateFigure from '~/assets/card-template-figure.png';
+import backgroundPattern from '~/assets/background-pattern.webp';
+import cardBuildFigure from '~/assets/card-build-figure.webp';
+import cardOpenFigure from '~/assets/card-open-figure.webp';
+import cardTemplateFigure from '~/assets/card-template-figure.webp';
 
 export type OpenBuildTemplateBentoProps = HTMLAttributes<HTMLDivElement>;
 

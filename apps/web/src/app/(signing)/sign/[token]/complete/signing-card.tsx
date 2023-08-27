@@ -6,7 +6,7 @@ import { motion } from 'framer-motion';
 
 import { Card, CardContent } from '@documenso/ui/primitives/card';
 
-import signingCelebration from '~/assets/signing-celebration.png';
+import signingCelebration from '~/assets/signing-celebration.webp';
 
 export type SigningCardProps = {
   name: string;

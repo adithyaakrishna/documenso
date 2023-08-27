@@ -1,8 +1,8 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
-import backgroundPattern from '~/assets/background-pattern.png';
-import connections from '~/assets/card-sharing-figure.png';
+import backgroundPattern from '~/assets/background-pattern.webp';
+import connections from '~/assets/card-sharing-figure.webp';
 import { SignInForm } from '~/components/forms/signin';
 
 export default function SignInPage() {

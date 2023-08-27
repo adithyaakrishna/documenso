@@ -10,7 +10,7 @@ import { usePlausible } from 'next-plausible';
 import { cn } from '@documenso/ui/lib/utils';
 import { Button } from '@documenso/ui/primitives/button';
 
-import backgroundPattern from '~/assets/background-pattern.png';
+import backgroundPattern from '~/assets/background-pattern.webp';
 
 import { Widget } from './widget';
 

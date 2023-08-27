@@ -5,10 +5,10 @@ import Image from 'next/image';
 import { cn } from '@documenso/ui/lib/utils';
 import { Card, CardContent } from '@documenso/ui/primitives/card';
 
-import backgroundPattern from '~/assets/background-pattern.png';
-import cardBeautifulFigure from '~/assets/card-beautiful-figure.png';
-import cardFastFigure from '~/assets/card-fast-figure.png';
-import cardSmartFigure from '~/assets/card-smart-figure.png';
+import backgroundPattern from '~/assets/background-pattern.webp';
+import cardBeautifulFigure from '~/assets/card-beautiful-figure.webp';
+import cardFastFigure from '~/assets/card-fast-figure.webp';
+import cardSmartFigure from '~/assets/card-smart-figure.webp';
 
 export type FasterSmarterBeautifulBentoProps = HTMLAttributes<HTMLDivElement>;
 

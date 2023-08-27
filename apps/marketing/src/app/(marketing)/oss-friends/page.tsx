@@ -8,7 +8,7 @@ import { Variants, motion } from 'framer-motion';
 import { Button } from '@documenso/ui/primitives/button';
 import { Card, CardContent, CardTitle } from '@documenso/ui/primitives/card';
 
-import backgroundPattern from '~/assets/background-pattern.png';
+import backgroundPattern from '~/assets/background-pattern.webp';
 
 const OSSFriends = [
   {

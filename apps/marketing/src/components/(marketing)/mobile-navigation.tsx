@@ -51,7 +51,7 @@ export const MobileNavigation = ({ isMenuOpen, onMenuOpenChange }: MobileNavigat
     <Sheet open={isMenuOpen} onOpenChange={onMenuOpenChange}>
       <SheetContent className="w-full max-w-[400px]">
         <Link href="/" className="z-10" onClick={handleMenuItemClick}>
-          <Image src="/logo.png" alt="Documenso Logo" width={170} height={25} />
+          <Image src="/logo.webp" alt="Documenso Logo" width={170} height={25} />
         </Link>
 
         <motion.div
